@@ -2,14 +2,17 @@
 margin: 0;
 padding: 0;
 }
+
 body {
 	font: 18px Helvetica, Sans-Serif;
 	line-height: 26px;
 	background: url(http://limboda.ru/p/2/poverhnost_svetlyy_fon_list_4000x3000.jpg);
 	background-size: cover;
 	}
-
-.clear { clear: both; }
+	
+.clear {
+	clear: both;
+	}
 
 #page-wrap {
 	width: 800px;
@@ -22,22 +25,41 @@ body {
 	}
 
 h1{
-	margin: 0 0 16px 0; padding: 0 0 16px 0; font-size: 42px; font-weight: bold; letter-spacing: -2px; border-bottom: 1px solid #999;
+	margin: 0 0 16px 0;
+	padding: 0 0 16px 0;
+	font-size: 42px;
+	font-weight: bold;
+	letter-spacing: -2px;
+	border-bottom: 1px solid #999;
 	}
 	
-h2 { font-size: 20px; margin: 0 0 6px 0; position: relative;}
+h2 {
+	font-size: 20px;
+	margin: 0 0 6px 0;
+	position: relative;}
 
 h2 span {
-	position: absolute; bottom: 0; right: 0; font-style: italic; font-family: Georgia, Serif; font-size: 16px; color: #999; font-weight: normal; 
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	font-style: italic;
+	font-family: Georgia, Serif;
+	font-size: 16px;
+	color: #999;
+	font-weight: normal; 
 	}
 	
-p { margin: 0 0 16px 0; }
+p {
+	margin: 0 0 16px 0; }
 a {
-	color: blue; text-decoration: none; border-bottom: 1px dotted #999;
+	color: blue;
+	text-decoration: none;
+	border-bottom: 1px dotted #999;
 	}
 	
 a:hover{
-	border-bottom-style: solid; color: black;
+	border-bottom-style: solid;
+	color: black;
 	}
 	
 ul {
@@ -45,7 +67,8 @@ ul {
 	}
 	
 #objective {
-	width: 500px; float: left;
+	width: 500px;
+	float: left;
 	}
 	
 #objective p {
@@ -55,15 +78,26 @@ ul {
 	color: black;
 	}
 dt {
-	font-style: italic; font-weight: bold; font-size: 18px; text-align: right; padding: 0 26px 0 0; width: 150px; float: left; /*height: 100px; border-right: 1px solid #999;*/
+	font-style: italic;
+	font-weight: bold;
+	font-size: 18px;
+	text-align: right;
+	padding: 0 26px 0 0;
+	width: 150px;
+	float: left; /*height: 100px; border-right: 1px solid #999;*/
 	}
 	
 dd {
-	width: 600px; float: right;
+	width: 600px;
+	float: right;
 	}
 	
 dd.clear {
-	float: none; margin: 0; height: 15px;
+	float: none;
+	margin: 0;
+	height: 15px;
 	}
 	
-img { border-radius: 10%;}
+img {
+	border-radius: 10%;
+	}
