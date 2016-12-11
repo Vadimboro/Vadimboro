@@ -1,15 +1,15 @@
 * { 
 margin: 0;
 padding: 0;
-/*
-border: 1px;
+
+/*border: 0.1px;
 border-style: solid;*/
 }
 
 body {
 	font: 18px Helvetica, Sans-Serif;
 	line-height: 26px;
-	background: url("http://edwardtapiajr.com/wp-content/uploads/2014/05/white-office-background.jpg");
+	background: url("http://limboda.ru/p/2/poverhnost_svetlyy_fon_list_4000x3000.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -35,7 +35,7 @@ h1{
 	font-size: 42px;
 	font-weight: bold;
 	letter-spacing: -2px;
-	border-bottom: 1px solid #999;
+	/*border-bottom: 1px solid #999;*/
 	}
 	
 h2 {
@@ -104,5 +104,5 @@ dd.clear {
 	}
 	
 img {
-	border-radius: 10%;
+	border-radius: 5%;
 	}
