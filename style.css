@@ -1,6 +1,9 @@
 * { 
 margin: 0;
 padding: 0;
+/*
+border: 1px;
+border-style: solid;*/
 }
 
 body {
@@ -8,6 +11,7 @@ body {
 	line-height: 26px;
 	background: url(http://limboda.ru/p/2/poverhnost_svetlyy_fon_list_4000x3000.jpg);
 	background-size: cover;
+	background-attachment: fixed;
 	}
 	
 .clear {
