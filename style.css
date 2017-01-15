@@ -9,7 +9,9 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-    margin: 5%;
+    margin-left: 8%;
+    margin-right: 10%;
+    margin-top: 2%;
 	}
 
 .left-col{
@@ -18,14 +20,14 @@ body {
     position: fixed;
 }
 
-.aside{
+.nav{
     padding: 20px;
 }
 
 .right-col{
     float: left;
     width: 75%;
-    padding-left: 30%;
+    padding-left: 32%;
 }
 
 img {
