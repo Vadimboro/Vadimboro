@@ -5,13 +5,13 @@ border-style: solid;*/
 body {
 	font: 16px Helvetica, Sans-Serif;
 	line-height: 20px;
-	background: url("http://limboda.ru/p/2/poverhnost_svetlyy_fon_list_4000x3000.jpg");
+	background: url("images/poverhnost_svetlyy_fon_list_4000x3000.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
     margin-left: 8%;
     margin-right: 10%;
-    margin-top: 2%;
+    margin-top: 3%;
 	}
 
 .left-col{
@@ -26,7 +26,7 @@ body {
 
 .right-col{
     float: left;
-    width: 75%;
+    width: 50%;
     padding-left: 32%;
 }
 
